@@ -12,7 +12,7 @@ To create a new project based on this template using [degit](https://github.com/
 
 ```bash
 npx degit brighta19/svelte-tailwind svelte-tailwind-app
-cd svelte-app
+cd svelte-tailwind-app
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -23,7 +23,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-tailwind-app
 npm install
 ```
 
